@@ -2,4 +2,7 @@ Heroku Algorithm
 
 heroku login
 heroku create
+
+git remote add heroku <name-of-repository-url>
+
 git push heroku master
